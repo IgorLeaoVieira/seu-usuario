@@ -9,7 +9,7 @@ Atualmente desenvolvo projetos voltados à resolução de problemas reais e apre
 
 ---
 
-# Tecnologias
+# Tecnologias.
 
 - Python  
 - Inteligência Artificial  
@@ -19,12 +19,22 @@ Atualmente desenvolvo projetos voltados à resolução de problemas reais e apre
 
 ---
 
-# Foco de estudo
+# Foco de estudo.
 
 - Redes e servidores  
 - Programação e automação  
 - Segurança e tecnologia  
 - Inteligência artificial  
+
+---
+
+# PROJETOS REIAS.
+
+chatbot IA
+boletim escolar
+calculadora
+caça-palavras
+
 
 ---
 
