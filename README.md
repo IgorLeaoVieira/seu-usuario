@@ -30,7 +30,7 @@ Atualmente desenvolvo projetos voltados à resolução de problemas reais e apre
 
 # PROJETOS REIAS.
 
-- chatbot
+- chatbot IA
 - boletim escolar
 - calculadora
 - caça-palavras
