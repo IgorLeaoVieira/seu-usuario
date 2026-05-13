@@ -21,9 +21,12 @@ Atualmente desenvolvo projetos voltados à resolução de problemas reais e apre
 
 # Foco de estudo.
 
-- Redes e servidores  
-- Programação e automação  
-- Segurança e tecnologia  
+- Redes
+- servidores  
+- Programação
+- automação  
+- Segurança
+- tecnologia  
 - Inteligência artificial  
 
 ---
